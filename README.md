@@ -30,7 +30,7 @@ In this project, I explored flight operation data to identify:
 
 If GitHub notebook preview fails, open directly in Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aadvikk/flight_operations_delay/blob/main/flight_operations_delay_analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aadvikk/flight_operations_delay_analysis/blob/main/flight_operations_delay_analysis.ipynb)
 
 ## 📂 Project Files
 
