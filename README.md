@@ -36,6 +36,7 @@ If GitHub notebook preview fails, open directly in Colab:
 
 ```text
 flight_operations_delay_analysis.ipynb
+Finance_Data_Analysis_500Rows
 README.md
 ```
 
